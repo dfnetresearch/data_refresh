@@ -1,0 +1,8 @@
+@import url(bootstrap.min.css);
+
+.shiny-notification {
+	position: fixed;
+	top: 33%;
+	left: 33%;
+	right: 33%;
+}
