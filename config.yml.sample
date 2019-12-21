@@ -1,0 +1,5 @@
+default:
+  script: "/path/to/script/to/run"
+  lock_file: "/path/to/script/lock/file"
+  timelog_file: "/path/to/script/run/time/log/file"
+  log_file: "/path/to/script/execution/log/file"
